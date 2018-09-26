@@ -1,4 +1,4 @@
-### Makan Buddy Rest Server
+# Makan Buddy Rest Server
 
 ## Installation
 
